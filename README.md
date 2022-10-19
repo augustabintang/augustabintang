@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @augustabintang
 - 👀 I’m interested in Data Analysis and Product Management
 - 🌱 I’m currently learning Data Analysis and IT Infrastructure
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Data Analysis
 - 📫 How to reach me via Linkedin and Email
 
 <!---
